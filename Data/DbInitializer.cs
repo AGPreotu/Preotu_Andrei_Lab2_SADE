@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using LibraryModel.Data;
+using LibraryModel.Models;
 using Preotu_Andrei_Lab2_SADE.Models;
 
 namespace Preotu_Andrei_Lab2_SADE.Data

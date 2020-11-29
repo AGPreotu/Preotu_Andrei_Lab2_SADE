@@ -8,6 +8,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
 using Preotu_Andrei_Lab2_SADE.Data;
+using LibraryModel.Data;
 
 namespace Preotu_Andrei_Lab2_SADE
 {

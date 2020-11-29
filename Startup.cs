@@ -10,6 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Preotu_Andrei_Lab2_SADE.Data;
 using Microsoft.EntityFrameworkCore;
+using LibraryModel.Data;
 
 namespace Preotu_Andrei_Lab2_SADE
 {

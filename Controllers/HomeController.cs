@@ -9,13 +9,12 @@ using Preotu_Andrei_Lab2_SADE.Models;
 using Microsoft.EntityFrameworkCore;
 using Preotu_Andrei_Lab2_SADE.Data;
 using Preotu_Andrei_Lab2_SADE.Models.LibraryViewModels;
+using LibraryModel.Data;
 
 namespace Preotu_Andrei_Lab2_SADE.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
         private readonly LibraryContext _context;
         public HomeController(LibraryContext context)
         {
