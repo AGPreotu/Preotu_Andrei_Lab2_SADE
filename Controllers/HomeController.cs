@@ -44,6 +44,10 @@ namespace Preotu_Andrei_Lab2_SADE.Controllers
             return View();
         }
 
+        public IActionResult Chat()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
